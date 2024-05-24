@@ -11,3 +11,8 @@ Script to monitor server RAM, CPU and Disk usage and send critical email notific
 3. **crond** service
 
 
+
+## Important Note :
+1. For email notification like gmail, password should be app password as less secured authentication is disabled by google.
+
+
